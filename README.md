@@ -15,7 +15,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-Name: PIRITHARAMAN R
+Name: Piritharaman R
 Reg no: 212223230148
 ```
 ```
@@ -27,6 +27,7 @@ df=pd.read_csv('student_scores.csv')
 #displaying the content in datafile
 df.head()
 ```
+
 ## Output:
 ![image](https://github.com/user-attachments/assets/ab8ccd75-c94f-465f-880a-171ab6925177)
 ```
